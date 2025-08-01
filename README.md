@@ -1,1 +1,2 @@
 # LogisticsShippiLogisticsShippingRates ngRates-
+LogisticsShippingRates LogisticsShippingRates 
